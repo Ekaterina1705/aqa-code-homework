@@ -31,5 +31,4 @@ class MobileBankApiTestV6 {
       .then()
           .statusCode(200);
     }
-
 }

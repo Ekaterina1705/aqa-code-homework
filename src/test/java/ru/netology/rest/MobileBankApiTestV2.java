@@ -22,6 +22,5 @@ class MobileBankApiTestV2 {
           // специализированные проверки - лучше
           .contentType(ContentType.JSON)
       ;
-
     }
 }
